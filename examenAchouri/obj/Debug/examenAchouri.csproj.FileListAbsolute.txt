@@ -1,0 +1,12 @@
+C:\Users\hp\OneDrive\Documents\projet c sharp\examenAchouri\examenAchouri\bin\Debug\examenAchouri.exe.config
+C:\Users\hp\OneDrive\Documents\projet c sharp\examenAchouri\examenAchouri\bin\Debug\examenAchouri.exe
+C:\Users\hp\OneDrive\Documents\projet c sharp\examenAchouri\examenAchouri\bin\Debug\examenAchouri.pdb
+C:\Users\hp\OneDrive\Documents\projet c sharp\examenAchouri\examenAchouri\obj\Debug\examenAchouri.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\projet c sharp\examenAchouri\examenAchouri\obj\Debug\examenAchouri.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\OneDrive\Documents\projet c sharp\examenAchouri\examenAchouri\obj\Debug\examenAchouri.Form1.resources
+C:\Users\hp\OneDrive\Documents\projet c sharp\examenAchouri\examenAchouri\obj\Debug\examenAchouri.Properties.Resources.resources
+C:\Users\hp\OneDrive\Documents\projet c sharp\examenAchouri\examenAchouri\obj\Debug\examenAchouri.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Documents\projet c sharp\examenAchouri\examenAchouri\obj\Debug\examenAchouri.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\projet c sharp\examenAchouri\examenAchouri\obj\Debug\examenAchouri.exe
+C:\Users\hp\OneDrive\Documents\projet c sharp\examenAchouri\examenAchouri\obj\Debug\examenAchouri.pdb
+C:\Users\hp\OneDrive\Documents\projet c sharp\examenAchouri\examenAchouri\obj\Debug\examenAchouri.Form2.resources
